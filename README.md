@@ -1,8 +1,8 @@
 # Installing Voidlinux the Archlinux way
 
 ## NOTE:
-this repo is inspired by Jake@Linux
-his tutorial: https://jpedmedia.com/tutorials/void_install/index.html
+this repo is inspired by Jake@Linux \
+his tutorial: https://jpedmedia.com/tutorials/void_install/index.html \
 his youtube video: https://www.youtube.com/watch?v=63f3EWZ-56I
 
 
